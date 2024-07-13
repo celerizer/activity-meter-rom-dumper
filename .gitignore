@@ -1,0 +1,4 @@
+*.rom
+*.elf
+*.nds
+build/
